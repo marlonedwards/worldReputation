@@ -7,6 +7,9 @@ worldRep is a platform that allows users to import their Steam and web3 gaming a
 ## User Profiles
 Users will be able to display their selected games and stats for both Steam and web3 games. For blockchain games, achievements in the form of NFTs will also be displayed based on user preferences. 
 
+## Repository Structure
+The frontend directory includes the staging React + TS website with mockup data for Steam and Starknet. 
+
 ## Technical Implementation
 - Cairo for smart contracts
 - Argent Invisible SDK
